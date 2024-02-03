@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4de7eb33-c498-4145-92da-79d7db742c10" name="Changes" comment="added readmes">
-      <change beforePath="$PROJECT_DIR$/start.run.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/routes/example.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes/example.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +24,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bptQeQXOHU8VSewWpr5rSiw0aH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +46,7 @@
     "npm.backend.executor": "Run",
     "npm.frontend.executor": "Run",
     "npm.install.executor": "Run",
-    "ts.external.directory.path": "C:\\Users\\mikew\\WebstormProjects\\hw3-starter-code\\backend\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Users\\mikew\\WebstormProjects\\hw3-starter-code\\common\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706923832394</updated>
       <workItem from="1706923833450" duration="2332000" />
+      <workItem from="1706926440785" duration="1359000" />
     </task>
     <task id="LOCAL-00001" summary="added readmes">
       <option name="closed" value="true" />

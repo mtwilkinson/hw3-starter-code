@@ -5,7 +5,7 @@ import axios from "axios";
 
 function App() {
 
-  async function getData() {
+  async function postData() {
 
     const data: employeeFeedback = {
       name: 'Mike',
@@ -20,18 +20,17 @@ function App() {
     if(res.status === 200) {
       console.log("added feedback");
     }
-    // const res = await axios.get("api/example");
   }
 
-  async function postData() {
+  async function getData() {
     const res = await axios.get("api/example");
     console.log(res.data);
   }
 
   return (
       <div className="App">
-        <button onClick={getData}>post feedback</button>
-        <button onClick={postData}>get feedback</button>
+        <button onClick={postData}>post feedback</button>
+        <button onClick={getData}>get feedback</button>
       </div>
   );
 }
