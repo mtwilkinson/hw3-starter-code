@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de7eb33-c498-4145-92da-79d7db742c10" name="Changes" comment="changed proxy">
+    <list default="true" id="4de7eb33-c498-4145-92da-79d7db742c10" name="Changes" comment="added build script to root package.json">
+      <change afterPath="$PROJECT_DIR$/.idea/hw3-starter-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "invalid-options-fix",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/mikew/WebstormProjects/hw3-starter-code/common",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -107,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707355030354</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added start configuration to base repo">
+      <option name="closed" value="true" />
+      <created>1712846990039</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712846990040</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +131,8 @@
     <MESSAGE value="added readmes" />
     <MESSAGE value="updated dependencies." />
     <MESSAGE value="changed proxy" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed proxy" />
+    <MESSAGE value="added start configuration to base repo" />
+    <MESSAGE value="added build script to root package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="added build script to root package.json" />
   </component>
 </project>
