@@ -5,17 +5,14 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run build && npm-run-all --parallel start-Frontend start-Backend",
-    "start-Frontend": "cd frontend && npm run deploy",
-    "start-Backend": "cd backend && npm run deploy",
-    "build": "npm run build-common && npm-run-all --parallel build-backend build-frontend",
-    "build-common": "cd common && npm install",
-    "build-frontend": "cd backend && npm install",
-    "build-backend": "cd frontend && npm install",
+    "dev": "turbo run dev",
+    "deploy": "turbo run deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "npm-run-all": "^4.1.5"
-  }
+  },
+  "workspaces": ["backend", "frontend", "common"]
 }
