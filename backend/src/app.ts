@@ -10,3 +10,5 @@ app.use("/api/example", example);
 app.listen(3001, () => {
     console.log("started");
 });
+
+export default app;
