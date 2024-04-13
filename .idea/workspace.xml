@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4de7eb33-c498-4145-92da-79d7db742c10" name="Changes" comment="added build folder to frontend">
+    <list default="true" id="4de7eb33-c498-4145-92da-79d7db742c10" name="Changes" comment="please word vercel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
       <workItem from="1707173117877" duration="1895000" />
       <workItem from="1707354864153" duration="460000" />
       <workItem from="1713019316860" duration="435000" />
-      <workItem from="1713020012954" duration="6325000" />
+      <workItem from="1713020012954" duration="6647000" />
     </task>
     <task id="LOCAL-00001" summary="added readmes">
       <option name="closed" value="true" />
@@ -180,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713025930409</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="please word vercel">
+      <option name="closed" value="true" />
+      <created>1713026644776</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713026644776</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +204,7 @@
     <MESSAGE value="modified to work with vercel" />
     <MESSAGE value="added .env file to set proxy url" />
     <MESSAGE value="added build folder to frontend" />
-    <option name="LAST_COMMIT_MESSAGE" value="added build folder to frontend" />
+    <MESSAGE value="please word vercel" />
+    <option name="LAST_COMMIT_MESSAGE" value="please word vercel" />
   </component>
 </project>
